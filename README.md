@@ -22,4 +22,4 @@ The student list can be viewed:
 The book list can be viewed:
 ![2](https://user-images.githubusercontent.com/49993917/75069690-bbb48480-5517-11ea-8647-f76029f50c4e.png)
 
-If someone wants to add database functionality to this code or add any new feature feel free to fork.
+If someone wants to add database functionality to this code and add any new feature feel free to fork.
